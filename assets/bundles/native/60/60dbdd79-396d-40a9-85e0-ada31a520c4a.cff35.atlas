@@ -1,0 +1,104 @@
+
+baoshang.png
+size: 543,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bs01
+  rotate: false
+  xy: 390, 5
+  size: 48, 88
+  orig: 150, 114
+  offset: 57, 25
+  index: -1
+bs02
+  rotate: false
+  xy: 346, 95
+  size: 51, 89
+  orig: 150, 114
+  offset: 55, 22
+  index: -1
+bs03
+  rotate: true
+  xy: 188, 9
+  size: 54, 90
+  orig: 150, 114
+  offset: 54, 17
+  index: -1
+bs04
+  rotate: true
+  xy: 2, 2
+  size: 54, 91
+  orig: 150, 114
+  offset: 54, 14
+  index: -1
+bs05
+  rotate: true
+  xy: 95, 7
+  size: 54, 91
+  orig: 150, 114
+  offset: 54, 13
+  index: -1
+bs1
+  rotate: true
+  xy: 440, 27
+  size: 76, 74
+  orig: 150, 114
+  offset: 38, 15
+  index: -1
+bs2
+  rotate: false
+  xy: 399, 105
+  size: 76, 79
+  orig: 150, 114
+  offset: 38, 13
+  index: -1
+bs3
+  rotate: true
+  xy: 477, 110
+  size: 74, 64
+  orig: 150, 114
+  offset: 41, 12
+  index: -1
+bs4
+  rotate: false
+  xy: 280, 6
+  size: 108, 67
+  orig: 150, 114
+  offset: 27, 7
+  index: -1
+bs5
+  rotate: true
+  xy: 71, 63
+  size: 121, 68
+  orig: 150, 114
+  offset: 11, 9
+  index: -1
+bs6
+  rotate: true
+  xy: 2, 58
+  size: 126, 67
+  orig: 150, 114
+  offset: 8, 11
+  index: -1
+bs7
+  rotate: true
+  xy: 209, 70
+  size: 114, 67
+  orig: 150, 114
+  offset: 20, 12
+  index: -1
+bs8
+  rotate: true
+  xy: 141, 65
+  size: 119, 66
+  orig: 150, 114
+  offset: 16, 12
+  index: -1
+bs9
+  rotate: true
+  xy: 278, 75
+  size: 109, 66
+  orig: 150, 114
+  offset: 23, 11
+  index: -1

@@ -1,0 +1,48 @@
+
+zhongji.png
+size: 1948,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z41
+  rotate: false
+  xy: 1349, 2
+  size: 83, 82
+  orig: 87, 86
+  offset: 2, 2
+  index: -1
+z42
+  rotate: true
+  xy: 1730, 46
+  size: 297, 216
+  orig: 308, 224
+  offset: 5, 1
+  index: -1
+z43
+  rotate: false
+  xy: 1349, 86
+  size: 379, 257
+  orig: 383, 263
+  offset: 2, 2
+  index: -1
+z44
+  rotate: false
+  xy: 922, 35
+  size: 425, 308
+  orig: 427, 318
+  offset: 1, 5
+  index: -1
+z45
+  rotate: false
+  xy: 472, 17
+  size: 448, 326
+  orig: 450, 334
+  offset: 1, 5
+  index: -1
+z46
+  rotate: false
+  xy: 2, 8
+  size: 468, 335
+  orig: 470, 344
+  offset: 1, 8
+  index: -1

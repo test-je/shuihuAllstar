@@ -1,0 +1,90 @@
+
+19.png
+size: 338,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19/suochao_0
+  rotate: true
+  xy: 63, 39
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+19/suochao_10
+  rotate: true
+  xy: 2, 2
+  size: 201, 59
+  orig: 201, 59
+  offset: 0, 0
+  index: -1
+19/suochao_14
+  rotate: true
+  xy: 225, 75
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+19/suochao_2
+  rotate: false
+  xy: 276, 18
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+19/suochao_3
+  rotate: false
+  xy: 86, 3
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+19/suochao_4
+  rotate: false
+  xy: 253, 10
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+19/suochao_5
+  rotate: false
+  xy: 230, 9
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+19/suochao_6
+  rotate: true
+  xy: 225, 40
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+19/suochao_61
+  rotate: true
+  xy: 205, 3
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+19/suochao_7
+  rotate: true
+  xy: 160, 3
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+19/suochao_71
+  rotate: true
+  xy: 63, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+zhongji/z31
+  rotate: false
+  xy: 295, 123
+  size: 41, 80
+  orig: 43, 88
+  offset: 1, 3
+  index: -1

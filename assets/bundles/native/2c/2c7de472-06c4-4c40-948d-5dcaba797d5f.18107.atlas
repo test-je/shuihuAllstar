@@ -1,0 +1,48 @@
+
+baoshangs.png
+size: 762,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshangs1
+  rotate: true
+  xy: 641, 5
+  size: 87, 119
+  orig: 108, 142
+  offset: 8, 11
+  index: -1
+baoshangs2
+  rotate: true
+  xy: 518, 6
+  size: 86, 121
+  orig: 108, 142
+  offset: 9, 9
+  index: -1
+baoshangs3
+  rotate: true
+  xy: 2, 2
+  size: 90, 136
+  orig: 108, 142
+  offset: 6, 6
+  index: -1
+baoshangs4
+  rotate: true
+  xy: 393, 6
+  size: 86, 123
+  orig: 108, 142
+  offset: 15, 8
+  index: -1
+baoshangs5
+  rotate: true
+  xy: 140, 4
+  size: 88, 127
+  orig: 108, 142
+  offset: 7, 4
+  index: -1
+baoshangs6
+  rotate: true
+  xy: 269, 2
+  size: 90, 122
+  orig: 108, 142
+  offset: 11, 4
+  index: -1

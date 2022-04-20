@@ -1,0 +1,48 @@
+
+shanbi_s.png
+size: 761,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanbis1
+  rotate: false
+  xy: 2, 67
+  size: 253, 83
+  orig: 271, 103
+  offset: 7, 11
+  index: -1
+shanbis2
+  rotate: false
+  xy: 257, 70
+  size: 256, 80
+  orig: 271, 103
+  offset: 0, 23
+  index: -1
+shanbis3
+  rotate: false
+  xy: 257, 5
+  size: 233, 63
+  orig: 271, 103
+  offset: 23, 28
+  index: -1
+shanbis4
+  rotate: false
+  xy: 2, 6
+  size: 209, 59
+  orig: 271, 103
+  offset: 22, 17
+  index: -1
+shanbis5
+  rotate: false
+  xy: 515, 2
+  size: 229, 71
+  orig: 271, 103
+  offset: 8, 15
+  index: -1
+shanbis6
+  rotate: false
+  xy: 515, 75
+  size: 244, 75
+  orig: 271, 103
+  offset: 5, 12
+  index: -1

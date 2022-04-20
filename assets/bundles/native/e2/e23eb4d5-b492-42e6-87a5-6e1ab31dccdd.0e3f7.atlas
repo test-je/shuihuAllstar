@@ -1,0 +1,69 @@
+
+16.png
+size: 455,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianju
+  rotate: true
+  xy: 2, 19
+  size: 110, 137
+  orig: 110, 137
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 257, 6
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 141, 3
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 335, 8
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 335, 60
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 406, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 393, 81
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 433, 7
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 406, 32
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1

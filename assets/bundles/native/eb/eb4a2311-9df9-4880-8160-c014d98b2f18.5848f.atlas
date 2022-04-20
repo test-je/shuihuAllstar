@@ -1,0 +1,20 @@
+
+skill_05.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemy_heal_1
+  rotate: false
+  xy: 1, 1
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+enemy_heal_2
+  rotate: false
+  xy: 80, 1
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+putonggongji.png
+size: 609,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p1
+  rotate: false
+  xy: 2, 9
+  size: 210, 169
+  orig: 215, 173
+  offset: 2, 2
+  index: -1
+p2
+  rotate: true
+  xy: 214, 2
+  size: 176, 185
+  orig: 181, 189
+  offset: 2, 2
+  index: -1
+p3
+  rotate: false
+  xy: 401, 15
+  size: 149, 163
+  orig: 152, 174
+  offset: 1, 2
+  index: -1
+p4
+  rotate: false
+  xy: 552, 84
+  size: 55, 94
+  orig: 59, 99
+  offset: 2, 2
+  index: -1

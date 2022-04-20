@@ -1,0 +1,27 @@
+
+chen_chuanci.png
+size: 390,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c51
+  rotate: true
+  xy: 264, 12
+  size: 291, 124
+  orig: 297, 130
+  offset: 3, 3
+  index: -1
+c52
+  rotate: true
+  xy: 135, 2
+  size: 301, 127
+  orig: 304, 133
+  offset: 2, 3
+  index: -1
+c53
+  rotate: true
+  xy: 2, 3
+  size: 300, 131
+  orig: 305, 135
+  offset: 2, 2
+  index: -1

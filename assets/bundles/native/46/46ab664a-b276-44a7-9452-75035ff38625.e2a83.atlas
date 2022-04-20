@@ -1,0 +1,118 @@
+
+skill_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+player_skill_3_freeze_1
+  rotate: false
+  xy: 1, 205
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_4
+  rotate: false
+  xy: 1, 1
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_6
+  rotate: false
+  xy: 205, 199
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_7
+  rotate: false
+  xy: 715, 348
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_3
+  rotate: false
+  xy: 553, 144
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_5
+  rotate: false
+  xy: 205, 1
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_2
+  rotate: false
+  xy: 101, 409
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_8
+  rotate: false
+  xy: 542, 1
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+player_skill_3_freeze_9
+  rotate: false
+  xy: 205, 388
+  size: 131, 113
+  orig: 131, 113
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_7
+  rotate: false
+  xy: 548, 348
+  size: 165, 146
+  orig: 165, 146
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_5
+  rotate: false
+  xy: 379, 348
+  size: 167, 149
+  orig: 167, 149
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_6
+  rotate: false
+  xy: 379, 199
+  size: 172, 147
+  orig: 172, 147
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_1
+  rotate: false
+  xy: 1, 409
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_3
+  rotate: false
+  xy: 397, 1
+  size: 143, 133
+  orig: 143, 133
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_4
+  rotate: false
+  xy: 867, 348
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+player_skill_3_snow_fx_2
+  rotate: false
+  xy: 668, 1
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1

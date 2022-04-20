@@ -1,0 +1,48 @@
+
+chen_zhongji.png
+size: 130,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c31
+  rotate: false
+  xy: 2, 2
+  size: 101, 36
+  orig: 103, 38
+  offset: 1, 1
+  index: -1
+c32
+  rotate: false
+  xy: 2, 40
+  size: 115, 44
+  orig: 117, 46
+  offset: 1, 1
+  index: -1
+c33
+  rotate: false
+  xy: 2, 86
+  size: 121, 51
+  orig: 123, 53
+  offset: 1, 1
+  index: -1
+c34
+  rotate: false
+  xy: 2, 139
+  size: 122, 54
+  orig: 125, 56
+  offset: 2, 1
+  index: -1
+c35
+  rotate: false
+  xy: 2, 195
+  size: 125, 54
+  orig: 127, 56
+  offset: 1, 1
+  index: -1
+c36
+  rotate: false
+  xy: 2, 251
+  size: 126, 54
+  orig: 128, 56
+  offset: 1, 1
+  index: -1

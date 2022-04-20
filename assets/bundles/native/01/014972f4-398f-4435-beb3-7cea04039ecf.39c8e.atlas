@@ -1,0 +1,76 @@
+
+baojis.png
+size: 844,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojis1
+  rotate: true
+  xy: 2, 246
+  size: 321, 266
+  orig: 451, 464
+  offset: 31, 80
+  index: -1
+baojis10
+  rotate: false
+  xy: 698, 12
+  size: 128, 220
+  orig: 451, 464
+  offset: 29, 31
+  index: -1
+baojis2
+  rotate: true
+  xy: 2, 2
+  size: 242, 332
+  orig: 451, 464
+  offset: 162, 108
+  index: -1
+baojis3
+  rotate: false
+  xy: 270, 294
+  size: 153, 273
+  orig: 451, 464
+  offset: 64, 182
+  index: -1
+baojis4
+  rotate: false
+  xy: 485, 150
+  size: 189, 205
+  orig: 451, 464
+  offset: 26, 48
+  index: -1
+baojis5
+  rotate: true
+  xy: 336, 13
+  size: 279, 147
+  orig: 451, 464
+  offset: 27, 128
+  index: -1
+baojis6
+  rotate: false
+  xy: 425, 357
+  size: 189, 210
+  orig: 451, 464
+  offset: 214, 205
+  index: -1
+baojis7
+  rotate: true
+  xy: 616, 424
+  size: 143, 226
+  orig: 451, 464
+  offset: 230, 25
+  index: -1
+baojis8
+  rotate: true
+  xy: 676, 234
+  size: 188, 153
+  orig: 451, 464
+  offset: 43, 266
+  index: -1
+baojis9
+  rotate: true
+  xy: 485, 9
+  size: 139, 211
+  orig: 451, 464
+  offset: 280, 250
+  index: -1

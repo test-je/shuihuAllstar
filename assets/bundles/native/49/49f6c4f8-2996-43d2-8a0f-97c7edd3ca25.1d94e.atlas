@@ -1,0 +1,48 @@
+
+shengming.png
+size: 579,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sehngmign1
+  rotate: true
+  xy: 508, 11
+  size: 71, 69
+  orig: 178, 174
+  offset: 52, 52
+  index: -1
+sehngmign2
+  rotate: false
+  xy: 436, 84
+  size: 72, 70
+  orig: 178, 174
+  offset: 52, 51
+  index: -1
+sehngmign3
+  rotate: true
+  xy: 436, 10
+  size: 72, 70
+  orig: 178, 174
+  offset: 52, 51
+  index: -1
+sehngmign4
+  rotate: true
+  xy: 303, 22
+  size: 132, 131
+  orig: 178, 174
+  offset: 22, 18
+  index: -1
+sehngmign5
+  rotate: true
+  xy: 2, 2
+  size: 152, 151
+  orig: 178, 174
+  offset: 12, 9
+  index: -1
+sehngmign6
+  rotate: false
+  xy: 155, 7
+  size: 146, 147
+  orig: 178, 174
+  offset: 15, 10
+  index: -1

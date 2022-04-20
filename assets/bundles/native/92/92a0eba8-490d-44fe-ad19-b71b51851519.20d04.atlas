@@ -1,0 +1,55 @@
+
+chen_xuanfeng.png
+size: 1434,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c61
+  rotate: false
+  xy: 610, 39
+  size: 173, 75
+  orig: 186, 83
+  offset: 6, 5
+  index: -1
+c62
+  rotate: true
+  xy: 1246, 17
+  size: 212, 140
+  orig: 224, 151
+  offset: 5, 7
+  index: -1
+c63
+  rotate: false
+  xy: 861, 16
+  size: 383, 213
+  orig: 396, 223
+  offset: 5, 8
+  index: -1
+c64
+  rotate: true
+  xy: 610, 116
+  size: 441, 249
+  orig: 452, 259
+  offset: 5, 6
+  index: -1
+c65
+  rotate: true
+  xy: 318, 30
+  size: 527, 290
+  orig: 542, 296
+  offset: 7, 2
+  index: -1
+c66
+  rotate: true
+  xy: 2, 2
+  size: 555, 314
+  orig: 569, 319
+  offset: 5, 2
+  index: -1
+c67
+  rotate: false
+  xy: 861, 231
+  size: 571, 326
+  orig: 582, 332
+  offset: 4, 5
+  index: -1

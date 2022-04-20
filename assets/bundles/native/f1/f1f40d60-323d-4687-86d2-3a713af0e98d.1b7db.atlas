@@ -1,0 +1,34 @@
+
+jianduns.png
+size: 655,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quans1
+  rotate: false
+  xy: 2, 5
+  size: 325, 323
+  orig: 338, 370
+  offset: 0, 14
+  index: -1
+quans2
+  rotate: true
+  xy: 2, 330
+  size: 321, 333
+  orig: 338, 370
+  offset: 0, 19
+  index: -1
+quans3
+  rotate: false
+  xy: 329, 2
+  size: 323, 322
+  orig: 338, 370
+  offset: 14, 29
+  index: -1
+quans4
+  rotate: true
+  xy: 337, 326
+  size: 325, 316
+  orig: 338, 370
+  offset: 0, 21
+  index: -1

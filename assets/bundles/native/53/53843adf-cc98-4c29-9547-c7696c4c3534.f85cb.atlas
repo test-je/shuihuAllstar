@@ -1,0 +1,41 @@
+
+qunti.png
+size: 470,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qunti1
+  rotate: true
+  xy: 417, 47
+  size: 249, 51
+  orig: 461, 319
+  offset: 105, 69
+  index: -1
+qunti2
+  rotate: false
+  xy: 2, 2
+  size: 311, 67
+  orig: 461, 319
+  offset: 76, 58
+  index: -1
+qunti3
+  rotate: false
+  xy: 2, 71
+  size: 350, 71
+  orig: 461, 319
+  offset: 55, 59
+  index: -1
+qunti4
+  rotate: false
+  xy: 2, 144
+  size: 388, 79
+  orig: 461, 319
+  offset: 39, 55
+  index: -1
+qunti5
+  rotate: false
+  xy: 2, 225
+  size: 413, 71
+  orig: 461, 319
+  offset: 22, 66
+  index: -1

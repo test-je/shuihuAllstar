@@ -1,0 +1,34 @@
+
+banyuezhan.png
+size: 705,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y11
+  rotate: false
+  xy: 2, 2
+  size: 346, 320
+  orig: 352, 327
+  offset: 5, 3
+  index: -1
+y12
+  rotate: false
+  xy: 2, 324
+  size: 361, 340
+  orig: 372, 346
+  offset: 10, 4
+  index: -1
+y13
+  rotate: true
+  xy: 365, 309
+  size: 355, 326
+  orig: 360, 331
+  offset: 3, 2
+  index: -1
+y14
+  rotate: false
+  xy: 350, 3
+  size: 353, 304
+  orig: 359, 308
+  offset: 5, 2
+  index: -1

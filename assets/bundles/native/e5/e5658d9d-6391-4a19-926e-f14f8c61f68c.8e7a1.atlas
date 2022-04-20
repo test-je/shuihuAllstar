@@ -1,0 +1,34 @@
+
+chuanci.png
+size: 819,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc5
+  rotate: false
+  xy: 492, 78
+  size: 321, 107
+  orig: 323, 109
+  offset: 1, 1
+  index: -1
+cc6
+  rotate: false
+  xy: 434, 2
+  size: 383, 74
+  orig: 385, 76
+  offset: 1, 1
+  index: -1
+cc7
+  rotate: false
+  xy: 2, 55
+  size: 430, 64
+  orig: 432, 66
+  offset: 1, 1
+  index: -1
+cc8
+  rotate: false
+  xy: 2, 121
+  size: 488, 64
+  orig: 490, 67
+  offset: 1, 1
+  index: -1
